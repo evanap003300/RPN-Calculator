@@ -22,7 +22,7 @@ The calculator:
 | `NibbleMath.java`     | Handles nibble (4-bit) arithmetic operations. |
 | `Operand.java`        | Represents numerical operands in expressions. |
 | `RPNNibbleTester.java`| Contains test cases for the calculator.    |
-| `Stack.java`          | Stack data structure abstract.       |
+| `Stack.java`          | Stack data structure interface.       |
 
 ---
 
