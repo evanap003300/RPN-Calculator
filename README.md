@@ -2,9 +2,6 @@
 
 A simple Java-based calculator that evaluates expressions written in **Reverse Polish Notation (RPN)** using binary operators. This project demonstrates the use of fundamental data structures (like stacks) and object-oriented programming principles.
 
-![Java](https://img.shields.io/badge/Java-8%2B-blue.svg)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 ---
 
 ## Overview
@@ -70,21 +67,3 @@ This shows how RPN naturally handles operator precedence using a stack.
 * Java JDK 8 or higher.
 * Basic knowledge of Java and command-line tools.
 * Terminal or IDE to compile and run Java code.
-
-## Contributing
-
-Contributions are welcome!
-If you'd like to suggest improvements, add new features, or fix bugs:
-
-1. Fork this repository.
-2. Create a feature or bugfix branch.
-3. Make your changes and commit them.
-4. Open a pull request describing your update.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Author
-
-Created by Evan Phillips.
