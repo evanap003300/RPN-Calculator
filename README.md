@@ -1,6 +1,6 @@
 # Reverse Polish Notation (RPN) Calculator
 
-A simple Java-based calculator that evaluates expressions written in **Reverse Polish Notation (RPN)** using binary operators. This project demonstrates the use of fundamental data structures (like stacks) and object-oriented programming principles.
+A simple Java-based calculator that evaluates expressions written in **Reverse Polish Notation (RPN)** using binary operators.
 
 ---
 
