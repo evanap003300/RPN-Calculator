@@ -11,7 +11,6 @@ This project simulates the evaluation of arithmetic expressions using Reverse Po
 The calculator:
 - Supports binary arithmetic operations.
 - Demonstrates stack-based expression parsing.
-- Includes test coverage via `RPNNibbleTester.java`.
 
 ---
 
