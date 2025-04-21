@@ -64,5 +64,4 @@ This shows how RPN naturally handles operator precedence using a stack.
 ## Requirements
 
 * Java JDK 8 or higher.
-* Basic knowledge of Java and command-line tools.
 * Terminal or IDE to compile and run Java code.
